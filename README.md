@@ -1,7 +1,7 @@
 # SLA-Bot (test version)
 Discord Server Literature Link Hub made by me (with reference to https://github.com/GamingDerp/ALH-Bot)
 
-## ALH Related Information
+## SLA Related Information
 - [Add SLA_test](https://discord.com/api/oauth2/authorize?client_id=804563425996177409&permissions=522240&scope=bot)
 
 **Default Prefix:** !
