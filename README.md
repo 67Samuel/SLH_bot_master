@@ -1,4 +1,4 @@
-# SLA-Bot (test version)
+# SLA-Bot
 Discord Server Literature Link Hub made by me (with reference to https://github.com/GamingDerp/ALH-Bot)
 
 ## SLA Related Information
