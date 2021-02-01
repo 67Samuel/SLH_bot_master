@@ -1,0 +1,5 @@
+Blogspot,blogspot site title,https://blogspot
+Medium,medium site title,https://medium
+Substack,substack site title,https://substack
+Wordpress,wordpress site title,https://wordpress
+wordpress,thiscatharsis,https://thiscatharsis.com/
